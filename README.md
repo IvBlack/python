@@ -1,5 +1,5 @@
 # python
 radiostat.py - this algo is approximate.
-When the exact solution takes too long.
+It can be used in case when finding the exact results could take too long..
 Greedy algos are good because they are easy to formulate & iterate very quickly.
-In this case greedy algo's executing in time O(n^2),  where n - is amount of radiostations.
+In this case greedy algo's executing in time O(n^2),  where n - is a number of radiostations.
