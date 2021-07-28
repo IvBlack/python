@@ -5,6 +5,9 @@ Created on Sun Jul 25 23:46:41 2021
 @author: Пользователь
 """
 
+#this app uses API Abby Lingvo for translating from Eng to Rus any phrases in CLI mode :)
+#so far in CLI mode.
+
 # ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmxlSEFpT2pFMk1qYzFPVEV5TURRc0lrMXZaR1ZzS
 #WpwN0lrTm9ZWEpoWTNSbGNuTlFaWEpFWVhraU9qVXdNREF3TENKVmMyVnlTV1FpT2pVek16WXNJbFZ1YVhGMVpVbGtJam9
 #pWXpBeFpHWmxZak10TkdJd05DMDBZMlJpTFRnNU1HRXRPRGM1WkRGaU9EbGlOVEV3SW4xOS5rQ1U3UWZ3U2FVQzdwRkVKS
